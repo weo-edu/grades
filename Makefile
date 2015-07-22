@@ -16,6 +16,5 @@ test: node_modules
 
 validate: node_modules
 	@${BIN}/standard lib/*.js
-	@node ./bin/validate.js
 
 .PHONY: test validate
