@@ -2,11 +2,10 @@
   "name": "@weo-edu/grades",
   "description": "Grade tags and utils.",
   "repository": "git://github.com/weo-edu/grades.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@weo-edu/schema-tag": "weo-edu/schema-tag",
     "@weo-edu/validate": "weo-edu/validate",
